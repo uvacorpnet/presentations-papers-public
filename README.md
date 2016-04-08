@@ -1,2 +1,2 @@
-# presentations-papers-private
-For work in progress
+# presentations-papers-public
+Finished pdfs and html
